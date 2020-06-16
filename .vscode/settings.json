@@ -1,0 +1,19 @@
+{
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~2",
+    "debug.internalConsoleOptions": "neverOpen",
+    "python.pythonPath": "/usr/local/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.banditEnabled": false,
+    "python.linting.pydocstyleEnabled": false,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+}
