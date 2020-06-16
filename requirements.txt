@@ -1,4 +1,4 @@
 azure-functions
 PySocks==1.7.1
 pyTelegramBotAPI==3.6.7
-requests==2.10.0
+requests==2.20.0
